@@ -26,3 +26,5 @@ services:
         value: "jani4675"
       - key: DJANGO_SUPERUSER_EMAIL
         value: "super@usersuper.fi"
+      - key: DJANGO_SETTINGS_MODULE
+        value: "djangokurssi"
