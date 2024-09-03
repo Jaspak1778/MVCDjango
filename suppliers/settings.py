@@ -1,4 +1,3 @@
-
 import dj_database_url # Lisätty
 import os # Lisätty
 from pathlib import Path
